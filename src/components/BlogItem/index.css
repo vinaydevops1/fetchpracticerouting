@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.img-size {
+  height: 200px;
+  width: 300px;
+  margin-right: 10px;
+}
+.avatar-size {
+  height: 30px;
+  border: 0px solid;
+  border-radius: 45px;
+}
+.link-style {
+  text-decoration: none;
+  margin: 20px;
+  display: flex;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 90%;
+
+  color: grey;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+}
+.blog-item-container {
+  display: flex;
+  align-items: center;
+}
+.avatar-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

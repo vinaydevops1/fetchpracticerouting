@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.item-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  width: 80%;
+}
+.blog-img-size {
+  width: 100%;
+}
